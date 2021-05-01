@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+andrade/com/calculadora_imc/BuildConfig.java
+ andrade.com.calculadora_imc.BuildConfig
+andrade/com/calculadora_imc/MainActivity.java
+ andrade.com.calculadora_imc.MainActivity
